@@ -3,6 +3,8 @@ Esse é um projeto feito para a ETEC Antonio Furlan com o intuito de estudar as 
 
 <img src="https://github.com/Igor-Lima07/Poke-da-Dex/blob/main/preview.gif?raw=true" width=50% height=50%>
 
+<a href="poke-da-dex.vercel.app">Clique aqui para testar você mesmo!!!</a>
+
 # Como funciona?
 
   Apenas insira o nome do Pokemon no campo "Encontrar Pokemon" e as informações sobre o Pokemon devem aparecer na interface, 
