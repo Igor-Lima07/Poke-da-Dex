@@ -2,7 +2,7 @@
 Esse é um projeto feito para a ETEC Antonio Furlan com o intuito de estudar as linguagens HTML,CSS e JS.
 
 <img src="https://github.com/Igor-Lima07/Poke-da-Dex/blob/main/preview.gif?raw=true" width=50% height=50%>
-<link href"http://www.poke-da-dex.vercel.app">
+<link href"poke-da-dex.vercel.app">
 <a href="poke-da-dex.vercel.app">Clique aqui para testar você mesmo!!!</a>
 
 # Como funciona?
