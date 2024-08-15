@@ -1,5 +1,6 @@
 # Introdução
 Esse é um projeto feito para a ETEC Antonio Furlan com o intuito de estudar as linguagens HTML,CSS e JS.
+![](https://github.com/Igor-Lima07/Poke-da-Dex/blob/main/preview.gif?raw=true)
 
 # Como funciona?
 
